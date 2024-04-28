@@ -23,10 +23,14 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![matplotlib](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![seaborn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![plotly](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![powerbi](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-%23F7931E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![plotly](https://img.shields.io/badge/plotly-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![powerbi](https://img.shields.io/badge/powerbi-%23F7931E.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23F7931E.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Data Mining](https://img.shields.io/badge/data-mining-%23F7931E.svg?style=for-the-badge&logo=data-mining&logoColor=white)
+
+
 
 
 
