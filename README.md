@@ -28,7 +28,7 @@
 ![plotly](https://img.shields.io/badge/plotly-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![powerbi](https://img.shields.io/badge/powerbi-%23F7931E.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23F7931E.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Data Mining](https://img.shields.io/badge/data-mining-%23F7931E.svg?style=for-the-badge&logo=data-mining&logoColor=white)
+![Data Mining](https://img.shields.io/badge/data--mining-%23F7931E.svg?style=for-the-badge&logo=data--mining&logoColor=white)
 
 
 
