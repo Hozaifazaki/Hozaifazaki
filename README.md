@@ -18,12 +18,20 @@
 <h5>Languages & Tools</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![matplotlib](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![plotly](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![powerbi](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+
+
+
+
+
 
 
 <!--
