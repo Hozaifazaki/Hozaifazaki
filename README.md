@@ -15,6 +15,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23F7931E.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 ![SpaCy](https://img.shields.io/badge/SpaCy-%23005CFF.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23009259.svg?style=for-the-badge&logo=nltk&logoColor=white)
@@ -32,7 +33,6 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-%23F7931E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-![SQL](https://img.shields.io/badge/sql-%23F7931E.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
