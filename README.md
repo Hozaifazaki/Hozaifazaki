@@ -14,38 +14,28 @@
 <h5>Languages & Tools</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ![SpaCy](https://img.shields.io/badge/SpaCy-%23005CFF.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23009259.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFCA00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFCA00.svg?style=for-the-badge&logo=transformers&logoColor=black)
-![Gensim](https://img.shields.io/badge/Gensim-%233EA653.svg?style=for-the-badge&logo=gensim&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23003366.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF0000.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LLamaIndex](https://img.shields.io/badge/LLamaIndex-%23FF6F00.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![LlamaCPP](https://img.shields.io/badge/LlamaCPP-%2300FF00.svg?style=for-the-badge&logo=llamacpp&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-%23FF0000.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23F7931E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23F7931E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%23F7931E.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/sql-%23F7931E.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-
-<h5>Technologies & Frameworks</h5>
-- **Technologies/Packages**
-  - Git, Docker, PostgreSQL, Cassandra, OpenCV, NumPy, SciPy, LangChain
-
-<h5>Education</h5>
-
-**Massachusetts Institute of Technology (MITx)** - MicroMasters in Statistics and Data Science (Mar 2024 – Oct 2025)
-- Related Courses: Probability, Statistics, Machine Learning with Python, Data Analysis, Statistical Modeling and Computation in Applications
-
-**Helwan University** - Bachelor in Computer Engineering (July 2017 – June 2022)
-- Related Courses: Machine Learning, Computer Vision, Natural Language Processing, System Control, Digital Signal Processing, Data structures, Software Engineering
-- Grade: Very good with honors
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 <h5>Projects & Contributions</h5>
 
