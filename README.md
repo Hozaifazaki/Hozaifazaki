@@ -6,10 +6,10 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/hozaifa-zaki-20421b1b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hozaifazaki7699@gmail.com?subject=Hello%20Hozaifa"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hozaifa.zaki.11@gmail.com?subject=Hello%20Hozaifa"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4>🔭 I’m currently working as a Machine Learning Engineer specializing in Natural Language Processing (NLP) and Large Language Models (LLMs)</h4>
+<h4>🔭 I’m currently working as a Data Scientist specializing in Natural Language Processing (NLP) and Large Language Models (LLMs)</h4>
 
 <h5>Languages & Tools</h5>
 
